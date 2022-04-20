@@ -1,2 +1,2 @@
 # AulasJavaScript
-alteracao de arquivo remotamente criei o conflito
+alteracao de arquivo remotamente crieio conflito
